@@ -1,16 +1,26 @@
-### Hi there 👋
+## 💻 Hola, mi nombre es 
+![me](https://raw.githubusercontent.com/gonzalogaete/gonzalogaete/main/G.png)
 
-<!--
-**gonzalogaete/gonzalogaete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :writing_hand: Sobre Mi 
+Soy Desarrollador Web Full Stack. Soy un entusiasta en la programacion, me gusta mucho la logica y estoy en busqueda de mejorar constantemente.
 
-Here are some ideas to get you started:
+😎 Lenguajes: **JavaScript**,**HTML**,**CSS**,**Java**,**C++**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😈 BackEnd: **NodeJS**,**Express**
+
+😇 FrontEnd: **React**,**Redux**,**Hooks**
+
+👁 Bases de datos: **Sequelize**,**postgresSQL**
+
+👔 Extras: **Bootstrap**,**Metodologia Scrum**
+
+## ✨ Estadisticas de GitHub
+[![gonzalogaete's GitHub stats](https://github-readme-stats.vercel.app/api?username=gonzalogaete)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalogaete&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📩 Contactame 
+**[LinkeDln](https://www.linkedin.com/in/gonzalo-gaete-6b291a19b/)**
+
+
+**[WhatsApp](https://wa.link/4lb3iv)**
