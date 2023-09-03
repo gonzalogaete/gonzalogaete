@@ -2,7 +2,7 @@
 ![me](https://raw.githubusercontent.com/gonzalogaete/gonzalogaete/main/G.png)
 
 ## :writing_hand: Sobre Mi 
-Soy Desarrollador Web Full Stack. Soy un entusiasta en la programacion, me gusta mucho la logica y estoy en busqueda de mejorar constantemente.
+Desarrollador Full Stack.
 
 😎 Lenguajes: **JavaScript**,**HTML**,**CSS**,**Java**,**C++**
 
