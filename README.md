@@ -21,6 +21,3 @@ Desarrollador Full Stack.
 
 ## 📩 Contactame 
 **[LinkeDln](https://www.linkedin.com/in/gonzalo-gaete-6b291a19b/)**
-
-
-**[WhatsApp](https://wa.link/4lb3iv)**
